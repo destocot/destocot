@@ -54,6 +54,7 @@ Hello! I’m Khurram (pronounced "curr-rahm") 👋, a full-stack developer with 
 
 <h3>📊 Stats</h3>
 #
+
 ![destocot's GitHub stats](https://github-readme-stats.vercel.app/api?username=destocot&show_icons=true&theme=gruvbox)
 
 <!--
