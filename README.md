@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Khurram</h1>
-<h3 align="center">fullstack developer</h3>
+<h3 align="center">full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=destocot&label=Profile%20views&color=0e75b6&style=flat" alt="destocot" /> </p>
 
-- 🌱 I’m currently learning **Next.js, React Native, and Sass**
+- 🌱 I’m currently researching **Next.js, Storybook, and OpenAI**
 
-- 👨‍💻 All of my projects are available at [https://khurramali.site](https://khurramali.site)
+- 👨‍💻 All of my projects are available at [[https://khurramali.site](https://khurramali.site/projects/all)]([https://khurramali.site](https://khurramali.site/projects/all))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
