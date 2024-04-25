@@ -50,7 +50,7 @@ Hello! I’m Khurram (pronounced "curr-rahm") 👋, a full-stack developer with 
 [![React Forms (Nextjs + TypeScript) | react-hook-form Form | Part 19](https://ytcards.demolab.com/?id=ilFYCBxleGA&title=React+Forms+%28Nextjs+%2B+TypeScript%29+%7C+react-hook-form+Form+%7C+Part+19&lang=en&timestamp=1711630843&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1232 "React Forms (Nextjs + TypeScript) | react-hook-form Form | Part 19")](https://www.youtube.com/watch?v=ilFYCBxleGA)
 <!-- END YOUTUBE-CARDS -->
 
-<br />
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/giraffereactor?sub_confirmation=1)
 
 <h3>📊 Stats</h3>
 ![destocot's GitHub stats](https://github-readme-stats.vercel.app/api?username=destocot&show_icons=true&theme=gruvbox)
