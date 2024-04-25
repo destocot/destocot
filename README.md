@@ -53,6 +53,7 @@ Hello! I’m Khurram (pronounced "curr-rahm") 👋, a full-stack developer with 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/giraffereactor?sub_confirmation=1)
 
 <h3>📊 Stats</h3>
+#
 ![destocot's GitHub stats](https://github-readme-stats.vercel.app/api?username=destocot&show_icons=true&theme=gruvbox)
 
 <!--
