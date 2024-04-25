@@ -9,6 +9,12 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
+        # Adding actions/checkout assuming you need to checkout the repository
+      - name: Set up Node.js 20
+        uses: actions/setup-node@v5
+        with:
+          node-version: '20'
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCtUA3gHBQwxn5C2L5xMRF0Q
